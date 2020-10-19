@@ -1,4 +1,4 @@
----
+---Realizing Your Self-Worth and Believing in Your Path
 title: Activity
 redirect_from:
   - /v3/activity
